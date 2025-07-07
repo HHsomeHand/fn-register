@@ -2,7 +2,7 @@
   "name": "fn-register",
   "version": "0.1.0",
   "description": "aop in js like aop in spring, but functional program, based on functions",
-  "main": "src/index.mjs",
+  "main": "src/index.ts",
   "directories": {
     "doc": "doc",
     "test": "test"

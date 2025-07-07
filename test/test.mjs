@@ -1,6 +1,6 @@
 // test/test.mjs
 
-import {fn, fnRegister} from "../src/index.mjs";
+import {fn, fnRegister} from "../src";
 
 fnRegister.before(/fn2/, () => {
     console.log("before");

@@ -1,7 +1,7 @@
 // test/test-log.mjs
 
 import {initLogLib, logStack} from "../lib/log.js";
-import {fn} from "../src/index.mjs";
+import {fn} from "../src";
 
 initLogLib();
 
