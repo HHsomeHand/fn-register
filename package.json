@@ -14,5 +14,8 @@
     "aop"
   ],
   "author": "hzx",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^5.8.3"
+  }
 }
